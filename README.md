@@ -28,6 +28,6 @@ Estudante de **Ciências Contábeis** com sólida experiência prática na opera
 ---
 
 ### 📊 Conecte-se comigo:
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/verla-acosta-ramos)
 
 *A tecnologia só gera valor real quando resolve um problema de negócio.*
